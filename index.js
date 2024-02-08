@@ -1,5 +1,5 @@
 
-const name = "TP1"
+const name = "TP1 partie2"
 const age =22
 const ville  = "tunis"
 const job = "engineer"
